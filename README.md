@@ -17,6 +17,6 @@ A proposta desse projeto e construir um back-end para meu BlogPessoal, nele ser�
 - [x] Lógica de Programação, Programação Orientada à Objetos em JAVA - POO.
 - [x] Criação de uma API REST.
 - [x] Banco de Dados MySQL, criação de DER.
-- [x] Lógica MVC (Model-View-Controller).
+- [x] Lógica MRC (Model-Repository-Controller).
 - [x] Utilização de metodologias ágeis.
 - [x] Orientação ao Futuro, Persistencia, Proatividade, Mentalidade de Crescimento, Responsabilidade Pessoal, Atenção aos Detalhes.
