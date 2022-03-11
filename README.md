@@ -23,3 +23,6 @@ A proposta desse projeto e construir um back-end para meu BlogPessoal, nele ser�
 # Documentação BlogPessoal
 Deploy Heroku
 https://blogpessoaldopablo.herokuapp.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+
+login: root
+senha: root
