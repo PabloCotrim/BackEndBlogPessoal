@@ -21,4 +21,5 @@ A proposta desse projeto e construir um back-end para meu BlogPessoal, nele ser�
 - [x] Utilização de metodologias ágeis.
 - [x] Orientação ao Futuro, Persistencia, Proatividade, Mentalidade de Crescimento, Responsabilidade Pessoal, Atenção aos Detalhes.
 # Documentação BlogPessoal
-http://localhost:8080/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+Deploy Heroku
+https://blogpessoaldopablo.herokuapp.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
